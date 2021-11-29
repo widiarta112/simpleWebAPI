@@ -1,0 +1,21 @@
+1.Create Project ASP.Net Core Web API
+2. UnCheck Https, pilih target Framework .Net 5.0
+3. Project Klik Kanan -> Manage Nuget Peckage
+   * install Microsft.EntityFrameWorkCore
+   * Microsoft.EntityFrameWorkCore.SqlServer
+   * Microsoft.EntityFrameWorkCore.Tools
+4. Create Folder Models pada Project
+5. Crate Class pada Models
+6. Cari StartUp tambahkan AddDbcontext pada ConfigureServices
+7. Cari appsettings.json tambahkan "ConnectionStrings": {
+    "DevConnection":
+8. Klik Kanan -> Build Solution
+9. munculkan package manager console (tools->nuget peckage manager -> package manager console)
+10. migration lewat package manager console 
+    * " Add-Migration "Initial Create" "
+    * " Update-Database " (Pastikan akses ke dbnya)
+11. Install Nuget Peckage Microsoft.visualstudio.web.codegeneration.design
+12. Klik kanan pada folder Controllers -> Add -> Controller
+    * Pilih API - > API Controller with actions, using Entity Framework
+    * Model Class, pilih model class yang di inginkan
+    * datacontext class pilih db yang akan dituju
