@@ -1,0 +1,270 @@
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\appsettings.json
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.exe
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.deps.json
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.runtimeconfig.json
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.runtimeconfig.dev.json
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ref\FirstApps.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csprojAssemblyReference.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.AssemblyInfoInputs.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.AssemblyInfo.cs
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csproj.CoreCompileInputs.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\staticwebassets\FirstApps.StaticWebAssets.Manifest.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\staticwebassets\FirstApps.StaticWebAssets.xml
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\scopedcss\bundle\FirstApps.styles.css
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.RazorTargetAssemblyInfo.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csproj.CopyComplete
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\ref\FirstApps.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.pdb
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.genruntimeconfig.cache
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Bimasakti\Documents\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\appsettings.Development.json
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\appsettings.json
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.exe
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.deps.json
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.runtimeconfig.json
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.runtimeconfig.dev.json
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ref\FirstApps.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\FirstApps.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Humanizer.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csproj.AssemblyReference.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.AssemblyInfoInputs.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.AssemblyInfo.cs
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csproj.CoreCompileInputs.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.MvcApplicationPartsAssemblyInfo.cs
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.MvcApplicationPartsAssemblyInfo.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\staticwebassets\FirstApps.StaticWebAssets.Manifest.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\staticwebassets\FirstApps.StaticWebAssets.xml
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\scopedcss\bundle\FirstApps.styles.css
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.RazorTargetAssemblyInfo.cache
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.csproj.CopyComplete
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\ref\FirstApps.dll
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.pdb
+D:\#BACKUP ASUS VivoBook 18112021\Document\New folder\Note\API\FirstApps\FirstApps\obj\Debug\net5.0\FirstApps.genruntimeconfig.cache
